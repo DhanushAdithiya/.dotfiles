@@ -1,0 +1,16 @@
+return {
+	"rost/vim-lesser",
+	"navarasu/onedark.nvim",
+	"folke/tokyonight.nvim",
+	"catppuccin/nvim",
+	"Shatur/neovim-ayu",
+	"thimc/gruber-darker.nvim",
+	"rose-pine/neovim",
+	"rebelot/kanagawa.nvim",
+	"morhetz/gruvbox",
+	"decaycs/decay.nvim",
+	"Mofiqul/vscode.nvim",
+	lazy = false,
+	priority = 1000,
+	opts = {},
+}

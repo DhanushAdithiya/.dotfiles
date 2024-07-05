@@ -1,0 +1,15 @@
+[window]
+dynamic_padding = true
+opacity = 1
+decorations = "Full"
+
+[font]
+normal = {family = "FiraCode Nerd Font"}
+
+[colors.primary]
+background = "0x000000"
+foreground = "0xeaeaea"
+
+[colors.cursor]
+text = "0x000000"
+cursor = "#ffffff"
