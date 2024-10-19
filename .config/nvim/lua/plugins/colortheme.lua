@@ -9,6 +9,7 @@ return {
 	"rebelot/kanagawa.nvim",
 	"morhetz/gruvbox",
 	"decaycs/decay.nvim",
+	"jameswalls/naysayer.nvim",
 	"Mofiqul/vscode.nvim",
 	lazy = false,
 	priority = 1000,

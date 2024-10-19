@@ -11,10 +11,10 @@ vim.opt.mouse = "a"
 vim.cmd("highlight clear SignColumn")
 vim.o.clipboard = 'unnamedplus'
 vim.o.undofile = true
-vim.o.cursorline = false
+vim.o.cursorline = true
 vim.o.ignorecase = true
 vim.o.smartcase = true
-vim.o.showmode = false
+vim.o.showmode = true
 vim.o.completeopt = 'menuone,noselect'
 vim.opt.hlsearch = true
 vim.keymap.set('n', '<Esc>', '<cmd>nohlsearch<CR>')
