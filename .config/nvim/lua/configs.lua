@@ -6,10 +6,9 @@ vim.cmd("set nu")
 vim.cmd("set conceallevel=2 ")
 vim.cmd("set concealcursor=")
 vim.cmd("NoMatchParen")
-vim.opt.guicursor = ""
+--vim.opt.guicursor = ""
 vim.opt.mouse = "a"
-vim.cmd("highlight clear SignColumn")
-vim.o.clipboard = 'unnamedplus'
+--vim.o.clipboard = 'unnamedplus'
 vim.o.undofile = true
 vim.o.cursorline = true
 vim.o.ignorecase = true
