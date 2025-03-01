@@ -72,7 +72,7 @@ return {
 
 				{
 					name = "tokyonight",
-					colorscheme = "tokyonight-night"
+					colorscheme = "tokyonight-storm"
 				},
 
 				{
